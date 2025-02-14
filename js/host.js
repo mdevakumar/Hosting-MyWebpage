@@ -1,0 +1,1 @@
+const ar = document.getElementById("h1")
